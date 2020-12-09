@@ -1,0 +1,32 @@
+.root {
+    margin: 1.5em 8em 1.5em 8em;
+  }
+  
+  .row-link {
+    color: #4b4949;
+    text-decoration: none;
+  
+    &:hover {
+      color: black;
+      cursor: pointer;
+    }
+  }
+  
+  .headStyle {
+    background-color: rgb(78, 78, 78) !important;
+    color: white !important;
+    font-weight: bolder !important;
+  }
+  
+  .greenColor {
+    color: green;
+  }
+  
+  .redColor {
+    color: red;
+  }
+  
+  .pagination {
+    background-color: rgb(154, 156, 160);
+    color: white !important;
+  }
